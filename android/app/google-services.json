@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860367574539",
+    "project_id": "masteraimobile",
+    "storage_bucket": "masteraimobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860367574539:android:019f585f8547761b9e990e",
+        "android_client_info": {
+          "package_name": "com.example.firstapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmsy5BnB3ZFwlPUt907jQS9pdHy5bC3CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
